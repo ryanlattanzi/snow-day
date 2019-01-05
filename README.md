@@ -21,11 +21,16 @@ Prequisites
 
 - RStudio
 
-Execution
+Explanation of files
 --------
 
-There are three datasets available.
-  1. The file `rawdata.xlsx`is not to be used in the execution but is placed there to see how the data originally looked. 
+There is no execution needed to run anything, as the full PDF of the Rmd file is provided called `Project.pdf` (the Rmd file is still provided for convenience). This PDF contains all code used to run the models using the datasets provided. A description of each dataset follows.
+
+  1. The file `rawdata.xlsx`is not to be used but is placed there to show the format of the original data.
+  2. `Crystalr.csv` was used for Poisson Regression and KNN
+  3. `Crystalk.csv` was used for MLR and Ordinal Regression
+
+
     
 Contributors
 --------------
